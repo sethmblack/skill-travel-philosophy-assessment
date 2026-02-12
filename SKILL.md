@@ -1,11 +1,10 @@
 ---
 name: travel-philosophy-assessment
-description: Plan and approach travel in a way that allows genuine transformation
-  rather than mere consumption of experiences.
+description: Plan and approach travel in a way that allows genuine transformation rather than mere consumption of experiences.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - transformation
 - travel-philosophy-assessment
