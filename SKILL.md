@@ -3,8 +3,9 @@ name: travel-philosophy-assessment
 description: Plan and approach travel in a way that allows genuine transformation rather than mere consumption of experiences.
 license: MIT
 metadata:
+  version: 1.0.5220
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
 - travel-philosophy-assessment
